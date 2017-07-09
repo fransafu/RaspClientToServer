@@ -1,0 +1,22 @@
+{
+  "name": "raspcliserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fransafu/RaspClientToServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fransafu/RaspClientToServer/issues"
+  },
+  "homepage": "https://github.com/fransafu/RaspClientToServer#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}

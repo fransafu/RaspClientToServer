@@ -1,0 +1,8 @@
+mongodb:
+    build: ./mongodb
+    ports:
+        - "27015:27017"
+node:
+    build: ./node
+    ports:
+        - "3080:3080"
